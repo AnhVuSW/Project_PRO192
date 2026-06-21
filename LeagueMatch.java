@@ -21,6 +21,10 @@ public class LeagueMatch extends MatchRecord {
     }
 
     // Getter and Setter for the unique attribute
-    public int getRoundNumber() { return roundNumber; }
-    public void setRoundNumber(int roundNumber) { this.roundNumber = roundNumber; }
+    public int getRoundNumber() { 
+        return roundNumber; 
+    }
+    public void setRoundNumber(int roundNumber) { 
+        this.roundNumber = roundNumber; 
+    }
 }
